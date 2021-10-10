@@ -11,7 +11,7 @@ export const Character = ({x, y}: Props) => {
 
     return (
         <C.Container size={size} left={x * size} top={y * size}>
-            ASHASHAUHSHSAUH
+            aqui
         </C.Container>
     );
 };
